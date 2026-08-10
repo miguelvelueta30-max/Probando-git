@@ -31,3 +31,4 @@ git branch nombre-rama      # Crea una nueva rama
 git checkout nombre -rama       # Te cambia a esa rama
 git checkout -b nombre -rama        # Crea una rama y te cambia a ella en solo paso
 
+### 5. trabajos con reset
